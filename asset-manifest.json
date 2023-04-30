@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/hrishtube/static/css/main.7064deb2.css",
+    "main.css": "/hrishtube/static/css/main.be7ba1ba.css",
     "main.js": "/hrishtube/static/js/main.9e876087.js",
     "index.html": "/hrishtube/index.html",
-    "main.7064deb2.css.map": "/hrishtube/static/css/main.7064deb2.css.map",
+    "main.be7ba1ba.css.map": "/hrishtube/static/css/main.be7ba1ba.css.map",
     "main.9e876087.js.map": "/hrishtube/static/js/main.9e876087.js.map"
   },
   "entrypoints": [
-    "static/css/main.7064deb2.css",
+    "static/css/main.be7ba1ba.css",
     "static/js/main.9e876087.js"
   ]
 }
