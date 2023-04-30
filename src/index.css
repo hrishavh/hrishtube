@@ -87,3 +87,25 @@ a {
     width:200px;
   }
 }
+
+
+/* change  */
+@media screen and (max-width: 675px){
+  .search-bar{
+    width: 250px;
+  }
+}
+
+@media screen and (max-width: 530px){
+  .search-bar{
+    width: 100px;
+  }
+
+}
+
+@media screen and (max-width: 380px){
+  .search-bar{
+    width: 50px;
+  }
+
+}
